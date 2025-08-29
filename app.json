@@ -1,4 +1,5 @@
 {
   "name": "iva-calculadora-cruzada",
-  "displayName": "IVA Calculadora Cruzada"
+  "displayName": "IVA Calculadora Cruzada",
+  "description": "Aplicación para calcular iva de productos en diferentes contextos."
 }
