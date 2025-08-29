@@ -7,3 +7,4 @@ import { name as appName } from './app.json';
 
 // Registrar el componente principal con AppRegistry
 AppRegistry.registerComponent(appName, () => App);
+// La aplicación ahora está registrada y lista para ser ejecutada
